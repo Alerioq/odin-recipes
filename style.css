@@ -1,0 +1,27 @@
+body {
+    background-color: rgba(221, 139, 31, 0.849) ;
+    font-family: Helvetica, Thaoma, Verdana, "sans-serif";
+}
+#logo {
+    width: 150px;
+    height: auto;
+}    
+.logo {
+    background-color: rgba(255, 253, 253, 0.308);
+
+}
+
+
+h1 {
+    background-color: rgba(227, 238, 238, 0.308);
+    font-size: 60px;
+        
+
+    }
+
+.relleno,
+.list {
+    background-color: rgba(226, 170, 66, 0.137);
+    color: azure;
+
+}
